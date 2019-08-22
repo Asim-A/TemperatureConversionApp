@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="textview">Temperature Conversion App</string>
+    <string name="ctof">°C to °F</string>
+    <string name="ftoc">°F to °C</string>
+    <string name="inputInfo">Enter temperature below.</string>
+
+</resources>
